@@ -8,7 +8,7 @@ I need to construct a basic API data fetching with Redux but, also, I need to us
 
 ## Thanks
 - [Dan Abramov](https://github.com/gaearon), creator of [Redux](https://github.com/reactjs/redux) / [Create React App](https://github.com/facebookincubator/create-react-app).
-- [Mihail Diordiev](@zalmoxisus), creator of [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
+- [Mihail Diordiev](https://github.com/zalmoxisus), creator of [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
 ## License
 MIT
